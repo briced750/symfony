@@ -15,7 +15,7 @@ Installation
 ------------
 
 The best way to install Symfony is to use the [official Symfony Installer][7].
-It allows you to start a new project based on the version you want.
+It allows you to start a new project based on the version you want [Codigo bono Bet365][http://bet-codigo-bonus.es/].
 
 Documentation
 -------------
